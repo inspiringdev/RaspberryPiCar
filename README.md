@@ -1,4 +1,6 @@
+![Raspbot-1800-_1](https://github.com/user-attachments/assets/cef1db83-1826-49b9-b703-5d2fac1ce3ea)
 # 🔧 AI-Powered Raspberry Pi 4B Smart 4WD Rover
+
 
 This project presents a fully autonomous 4WD robotic vehicle, powered by a **Raspberry Pi 4B**, equipped with **AI-based object detection**, **real-time obstacle avoidance**, **metal detection**, and **infrared (IR) vision**, all controllable via a **mobile interface** through Wi-Fi and Bluetooth.
 
